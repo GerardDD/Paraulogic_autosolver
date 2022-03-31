@@ -1,0 +1,1 @@
+# Paraulogic_autosolver

@@ -1,19 +1,13 @@
 # Paraulogic_autosolver
 
-*[Gerard Domenech Domingo]*
+by *[Gerard Domenech Domingo]*
 
 
 ## Content
 - [Project Description](#project-description)
-- [Hypotheses / Questions](#hypotheses-questions)
-- [Dataset](#dataset)
-- [Cleaning](#cleaning)
-- [Analysis](#analysis)
-- [Model Training and Evaluation](#model-training-and-evaluation)
-- [Conclusion](#conclusion)
 - [Future Work](#future-work)
 - [Workflow](#workflow)
-- [Links](#links)
+
 
 ## Project Description 
 

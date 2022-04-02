@@ -17,7 +17,9 @@ Run the notebook to watch how the famous daily Paraulogic game is solved word by
 
 ## Future Work
 
-Try to reduce the time that it takes to solve the game, by eliminating conjugated verbs maybe using NLP.
+- Try to reduce the time that it takes to solve the game, by eliminating conjugated verbs maybe using NLP.
+- Look for a better dictionary source
+
 
 ## Workflow
 
